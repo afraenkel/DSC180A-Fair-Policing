@@ -4,6 +4,7 @@ Is predictive policing fair?
 ## Schedule
 
 |Week|Topic|
+|--|--|
 |1|[Introduction](01-Introduction.md)|
 |2|Background: Police, Traffic, and Discrimination|
 |3|Traffic Stops Data|
