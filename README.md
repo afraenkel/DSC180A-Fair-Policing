@@ -6,7 +6,7 @@ Is predictive policing fair?
 |Week|Topic|
 |--|--|
 |1|[Introduction](01-Introduction.md)|
-|2|Background: Police, Traffic, and Discrimination|
+|2|[Background: Police, Traffic, and Discrimination](02-Background.md)|
 |3|Traffic Stops Data|
 |4|Causal Inference|
 |5|Causal Inference II|
