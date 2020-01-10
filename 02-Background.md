@@ -25,13 +25,19 @@
   in the United States. 
 * List some ways to identify stops based on ‘pretext’ versus ‘road
   safety’ in the data.
-* What is the difference between the (driving) population in North
-  Carolina and San Diego? What differences in results might you expect
-  to find in a similar analysis of San Diego?
-* Suppose you train three "predictive policing" classifiers that
-  predict: whether a driver will be stopped, whether a stopped driver
-  will be arrested, and whether a searched driver possessed
-  contraband. Carefully think through the meaning of false
-  positives/negatives in each model.
+* Look up the difference in racial composition by state using the
+  [census
+  website](https://www.census.gov/quickfacts/fact/table/US/PST045219). Think
+  about how the demographics of the driving population might be
+  different than the overall demographics of each state. Given the
+  results of the North Carolina study, what differences in results
+  would you expect to find in a similar analysis of San Diego?
+* Suppose you train two "predictive policing" classifiers that
+  predict: whether a stopped driver will be arrested, and whether a
+  searched driver possessed contraband. Carefully think through the
+  meaning of false positives/negatives in each model. What is
+  difficult about training a classifier that predicts whether a driver
+  will be stopped?
+  
   
 
