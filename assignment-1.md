@@ -24,7 +24,7 @@ programming assignment.
 
 Introduce the problem being investigated and describe the data being
 used to approach the problem. That is, describe the investigation into
-racial discrepancies in [SDSU
+racial discrepancies in traffic stops by the [SDSU
 investigation](https://www.sandiego.gov/sites/default/files/sdpdvehiclestopsfinal.pdf)
 into the San Diego Police department (referring to the investigation
 in *Suspect Citizens* for context).
@@ -75,16 +75,22 @@ pipeline for the result-replication project. The pipeline should:
 
 -   Ingest Traffic Stops data from the San Diego [Open Data
     Portal](https://data.sandiego.gov/datasets/?department=police)
-    into a local sqlite database. The ingestion pipeline should take
-    in the year (between 2014 and 2019) as a parameter. Note that data
-    post-2018 is structured differently according to RIPA (Racial and
-    Identity Profiling Act).
+    into local file(s) on disk, according to best practices laid out
+    in the methodology HW. All files should have the same schema! The
+    ingestion pipeline should take in the year (between 2014 and 2019)
+    as a parameter. Note that data post-2018 is structured differently
+    according to RIPA (Racial and Identity Profiling Act).
+    
+-   As a bonus, write your data ingestion code to write the data to a
+    local sqlite database. This will be useful when working with
+    multiple years of data (or multiple geographies).
 
 -   Store the data according to your designed schema, taking care to
     appropriately type the data and implement the best storage
-    design. The data is stored in a database format both due to the
-    size of the total collection of data, as well as for comparison to
-    the Stanford Open Policing datasets.
+    design (which columns are needed and appropriate). The data will
+    eventually be stored in a database format both due to the size of
+    the total collection of data, as well as for comparison to the
+    Stanford Open Policing datasets.
 
 -   The stored data should be in a form most appropriate for
     assessment and cleaning (EDA). You may find it useful to compare
