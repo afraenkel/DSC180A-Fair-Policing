@@ -75,3 +75,9 @@ A few questions to keep in mind when attempting such a join:
   your descriptive statistics (confounding). Focus on conclusions
   drawn in *Suspect Citizens*.
 * What are you first impressions about the Veil of Darkness technique?
+
+### Participation Submission
+
+Answer the questions on this
+[Form](https://forms.gle/C2Aa2U1HssBsX4E78) by the Tuesday morning
+before section.
