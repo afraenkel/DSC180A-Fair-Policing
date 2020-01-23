@@ -8,7 +8,7 @@ Is predictive policing fair?
 |1|[Introduction](01-Introduction.md)|
 |2|[Background: Police, Traffic, and Discrimination](02-Background.md)|
 |3|[Traffic Stops Data](03-Traffic-Stops-Data.md)|
-|4|Causal Inference|
+|4|[Causal Inference](04-Causal-Inference-I.md)|
 |5|Causal Inference II|
 |6|Veil of Darkness|
 |7|Improvements on Veil of Darkness|
