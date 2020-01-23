@@ -31,7 +31,7 @@ in *Suspect Citizens* for context).
 
 Address the appropriateness of the data design and collection:
 
--   Why is the data is appropriate to address the problem?
+-   Why is the data appropriate to address the problem?
 
 -   What are the potential shortcomings of the data for addressing the
     problem?
