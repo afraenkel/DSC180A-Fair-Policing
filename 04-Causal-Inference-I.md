@@ -37,5 +37,5 @@
 ### Participation Submission
 
 Answer the questions on this
-[Form]() by the Tuesday morning
-before section. (Posted later).
+[Form](https://docs.google.com/forms/d/e/1FAIpQLSd1MgUvQsFnpoNpxKQ4usVGyWATSSx9vjUmtj_oEm3j-YTWLA/viewform?usp=sf_link)
+by the Tuesday at 5PM.
