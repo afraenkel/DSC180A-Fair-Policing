@@ -32,7 +32,7 @@
   difference in stop rates? What is the sign of this bias? (Give
   examples from suspect citizens).
   
-* Suspect citizens suggests that past police interactions may effect
+* Suspect citizens suggests that past police interactions may affect
   current behavior.  Then we can represent the DGP as where <img
   src="https://render.githubusercontent.com/render/math?math=D_{it}">
   is driver behavior in *t*. Can we still causally estimate the effect
