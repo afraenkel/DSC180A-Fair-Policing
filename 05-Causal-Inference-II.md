@@ -28,8 +28,35 @@
 
 ## Discussion questions from reading and analysis
 
-* TBD
-
+* What might be captured in the selection bias portion of the observed
+  difference in stop rates? What is the sign of this bias? (Give
+  examples from suspect citizens).
+  
+* Suspect citizens suggests that past police interactions may effect
+  current behavior.  Then we can represent the DGP as where <img
+  src="https://render.githubusercontent.com/render/math?math=D_{it}">
+  is driver behavior in *t*. Can we still causally estimate the effect
+  of observed race? How would this change the interpretation of our
+  estimates?
+  
+  <img
+  src="https://render.githubusercontent.com/render/math?math=Y_{it}=f(M_i,D_{it}(Y_{it-1}),\varepsilon_{it})">
+  
+* (Related to previous) In medical trials, [double blind
+  experiments](https://link.springer.com/referenceworkentry/10.1007%2F978-3-540-68706-1_1425)
+  are the gold standard.  If you could design an experiment to test
+  for racial bias in police behavior, how could you attempt to meet
+  this standard? Note that this may not be an experiment that is
+  feasible or ethical, and if what you create fails either of those
+  standards, explain why. What do you sacrifice in generalizability?
+  
+* From 3.2: what is the conditional expectation function assumed in
+  the veil of darkness study.  What assumptions are required?
+  
+* From 5: What fixed effect does the intertwilight period allow us to
+  use? What treatment intensity variables could you construct? (Think
+  about natural and unnatural light sources to get started).
+  
 ### Participation Submission
 
 Answer the questions on this
