@@ -10,8 +10,8 @@
   
 * Read [Mostly Harmless
   Econometrics](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion/link/00b4953344a9a0cb13000000/download)
-  (sections 2.1, 2.2, 3.2, 5.1, 5.2). While reading the book,
-  carefully understand how it relates to the
+  (sections 2.1, 2.2, 3.2 (you can skip 3.2.2), 5.1, 5.2). While
+  reading the book, carefully understand how it relates to the
   [notebook](material/Simulation.ipynb) from section last week.
   
 * Recreate the analyses in the Simulation notebook on the SD stops
