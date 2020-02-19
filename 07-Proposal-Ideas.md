@@ -17,9 +17,7 @@ closely, while others follow a different path altogether.
   technique that attempts to reduce the bias due to confounding
   variables, when estimating a treatment effect. This technique is
   used by researchers in the SDSU study on racial bias in traffic
-  stops. It may also [lead to
-  problems](https://gking.harvard.edu/files/gking/files/psnot.pdf) in
-  such estimates. See for example, Ch XX [Mostly Harmless
+  stops (See page 52). See for example, Section 3.3.2 [Mostly Harmless
   Econometrics](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion/link/00b4953344a9a0cb13000000/download).
 
 * (Race of Officer and Driver). Searches during traffic stops in
