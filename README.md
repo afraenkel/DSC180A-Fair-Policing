@@ -11,9 +11,9 @@ Is predictive policing fair?
 |4|[Causal Inference](04-Causal-Inference-I.md)|
 |5|[Causal Inference II](05-Causal-Inference-II.md)|
 |6|[Veil of Darkness](06-Veil-Of-Darkness.md)|
-|7|[Improvements on Veil of Darkness](07-Proposal-Ideas.md)|
-|8|Impacts and Ethics|
-|9|Work on Proposals|
+|7|[Improvements on Veil of Darkness I](07-Proposal-Ideas.md)|
+|8|[Improvements on Veil of Darkness II](08-Proposal-Ideas.md)|
+|9|Impacts and Ethics|
 |10|Work on Proposals|
 
 ## Introduction
