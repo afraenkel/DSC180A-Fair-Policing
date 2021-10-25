@@ -33,9 +33,3 @@
   what analyzed across all time?
 * What are the limitations of restricting ourselves to analyzing the
   inter-twilight period? Be specific in relation to the data at hand.
-
-### Participation Submission
-
-Answer the questions on this
-[Form](https://docs.google.com/forms/d/e/1FAIpQLSd1MgUvQsFnpoNpxKQ4usVGyWATSSx9vjUmtj_oEm3j-YTWLA/viewform?usp=sf_link)
-by the Tuesday at 5PM.

@@ -50,5 +50,3 @@ Questions:
   columns available in other municipalities, census data, violent
   crime or police calls data, etc.
   
-Answer these questions on the form [here](https://docs.google.com/forms/d/e/1FAIpQLSet74jleCzGr5EOLAz0zeO5k2qKoFr9MhpBNyP-fYnmyc1U_w/viewform?usp=sf_link).
-

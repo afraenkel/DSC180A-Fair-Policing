@@ -10,8 +10,3 @@ Please skim (read the abstract and intro, and look at the figures):
 
 Discussion slides, consisting of important figures and results from
 these papers, may be found [here](https://docs.google.com/presentation/d/1L1uicmmzc_XyC6MEEtqfOkI5f5MUa1ATp5QIBi1CKmI/edit?usp=sharing).
-
-## Group Formation
-
-Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeuwEz6PR835XU-pFCvNSUAT_TLJKhxLa_fvKtD2ZJtAh20GQ/viewform?usp=sf_link) to form your group before Wednesday.
-

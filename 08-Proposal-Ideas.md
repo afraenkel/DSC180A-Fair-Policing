@@ -30,5 +30,4 @@
     quality" variables in the document (omitted variable bias).
   * What variables in the stops data *aren't* fixed effects?
     
-* Re-answer the questions from the previous week's form [here](https://docs.google.com/forms/d/e/1FAIpQLSdzgF-XrEA1CR6Ky7SdZgKihfnJWmmTqVANnQGxP3l5VYorQA/viewform?usp=sf_link).
 
